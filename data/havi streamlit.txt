@@ -1,0 +1,7 @@
+cd "C:\Users\48573\Desktop\Programy_rozwój\TopYoung100\HAVI"
+C:\Users\48573\anaconda3\envs\havi310\python.exe -m streamlit run happ.py
+
+
+
+
+

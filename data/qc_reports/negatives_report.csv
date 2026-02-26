@@ -1,0 +1,23 @@
+country,dc_id,sku,product_name,year,week,week_start,demand_raw,source_file,source_sheet
+Poland,200,05243-022-000,KAWA,2020,47,2020-11-16,-1.0,Polska 05243-022-000 KAWA.xlsx,ShortBaseByYear_Week
+Poland,200,05243-022-000,KAWA,2021,42,2021-10-18,-1.0,Polska 05243-022-000 KAWA.xlsx,ShortBaseByYear_Week
+Portugal,700,00012-619-000,LEITE SUNDAE,2021,11,2021-03-15,-1.0,PT Sundae Mix.xlsx,ShortBaseByYear_Week
+Portugal,700,00012-619-000,LEITE SUNDAE,2021,13,2021-03-29,-1.0,PT Sundae Mix.xlsx,ShortBaseByYear_Week
+Portugal,500,00041-097-000,CHOC QT 05 MC,2020,26,2020-06-22,-1.0,PT Hot Chocolate.xlsx,ShortBaseByYear_Week
+Portugal,500,00041-097-000,CHOC QT 05 MC,2020,27,2020-06-29,-9.0,PT Hot Chocolate.xlsx,ShortBaseByYear_Week
+Portugal,500,00041-097-000,CHOC QT 05 MC,2020,31,2020-07-27,-1.0,PT Hot Chocolate.xlsx,ShortBaseByYear_Week
+Portugal,500,00041-097-000,CHOC QT 05 MC,2021,15,2021-04-12,-8.0,PT Hot Chocolate.xlsx,ShortBaseByYear_Week
+Portugal,500,00041-097-000,CHOC QT 05 MC,2022,14,2022-04-04,-14.0,PT Hot Chocolate.xlsx,ShortBaseByYear_Week
+Romania,200,07808-016-000,Cinnamon,2024,8,2024-02-19,-6.0,Romania 7808-016-000 Cinnamon.xlsx,ShortBaseByYear_Month_Week
+Spain,100,00023-189-000,CONO,2020,12,2020-03-16,-1.0,ES Ice Cream Cone.xlsx,ShortBaseByYear_Week
+Spain,400,00023-189-000,CONO,2020,12,2020-03-16,-1.0,ES Ice Cream Cone.xlsx,ShortBaseByYear_Week
+Spain,100,00119-066-001,GAZPACHO,2020,12,2020-03-16,-5.0,ES Gazpacho.xlsx,ShortBaseByYear_Week
+Spain,100,00119-066-001,GAZPACHO,2022,18,2022-05-02,-4.0,ES Gazpacho.xlsx,ShortBaseByYear_Week
+Spain,200,00119-066-001,GAZPACHO,2020,12,2020-03-16,-4.0,ES Gazpacho.xlsx,ShortBaseByYear_Week
+Spain,200,00119-066-001,GAZPACHO,2022,35,2022-08-29,-0.001,ES Gazpacho.xlsx,ShortBaseByYear_Week
+Spain,700,00119-066-001,GAZPACHO,2022,20,2022-05-16,-1.0,ES Gazpacho.xlsx,ShortBaseByYear_Week
+Spain,100,04592-030-000,CERVEZA 30L,2020,12,2020-03-16,-32.0,ES Beer 30.xlsx,ShortBaseByYear_Week
+Spain,100,04592-030-000,CERVEZA 30L,2020,14,2020-03-30,-2.0,ES Beer 30.xlsx,ShortBaseByYear_Week
+Spain,200,04592-030-000,CERVEZA 30L,2020,12,2020-03-16,-6.0,ES Beer 30.xlsx,ShortBaseByYear_Week
+Spain,400,04592-030-000,CERVEZA 30L,2020,12,2020-03-16,-4.0,ES Beer 30.xlsx,ShortBaseByYear_Week
+Sweden,100,00397-117-000,Cup Carrier,2020,23,2020-06-01,-3.0,Sweden 397-117-000 Cup Carrier.xlsx,ShortBaseByYear_Week
