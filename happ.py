@@ -8,10 +8,9 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 
-
 def check_password():
     def password_entered():
-        if st.session_state["password"] == "havi34":
+        if st.session_state["password"] == st.secrets["APP_PASSWORD"]:
             st.session_state["password_correct"] = True
             del st.session_state["password"]
         else:
